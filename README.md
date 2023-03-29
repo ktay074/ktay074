@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Kevin
+
+### Connect with me: 
+[LinkedIn](https://www.linkedin.com/in/kevintsy/)
+
+
 
 <!--
 **ktay074/ktay074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
