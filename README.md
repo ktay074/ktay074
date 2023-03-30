@@ -7,14 +7,13 @@
 [LinkedIn](https://www.linkedin.com/in/kevintsy/)
 
 ### Languages and Tools :
-
-JavaScript / React
-Node JS/ Express JS
-HTML / CSS
-Tailwind / Styled Components / SCSS
-MongoDB / MySQL
-Microsoft Azure Cloud AI / DevOps 
-Python / R 
+- JavaScript / React
+- Node JS/ Express JS
+- HTML / CSS
+- Tailwind / Styled Components / SCSS
+- MongoDB / MySQL
+- Microsoft Azure Cloud AI / DevOps 
+- Python / R 
 
 
 <!--
