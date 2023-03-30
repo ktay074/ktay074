@@ -8,6 +8,13 @@
 
 ### Languages and Tools :
 
+JavaScript / React
+Node JS/ Express JS
+HTML / CSS
+Tailwind / Styled Components / SCSS
+MongoDB / MySQL
+Microsoft Azure Cloud AI / DevOps 
+Python / R 
 
 
 <!--
