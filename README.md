@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 ### About Me: 
-#I'm Kevin, a full stack developer currently based in Tāmaki Makaurau, looking for opportunities to develop in full stack development 
+I'm Kevin, a full stack developer currently based in Tāmaki Makaurau, looking for opportunities to develop in full stack development 
 
 ### Connect with me: 
 [LinkedIn](https://www.linkedin.com/in/kevintsy/)
